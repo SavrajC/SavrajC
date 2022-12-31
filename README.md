@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Backend Software Engineer
 ----------------------------------
 
-I started coding at 16 making simple video games for fun and am now a 3rd year student at KPU pusuing a B.Tech in Information Technologies and just completed an 8 month long co-op at vaisala as a Full Stack Software Developer creating serverless device simulators using AWS
+I started coding at 16 making simple video games for fun and am now a 3rd year student at KPU pusuing a B.Tech in Information Technology.I have just completed an 8 month long co-op at Vaisala Oyj as a Full Stack Software Developer creating serverless device simulators using AWS.
 
 * 🌍  I'm based in Vancouver
 * ✉️  You can contact me at [Savrajcheema@hotmail.com](mailto:Savrajcheema@hotmail.com)
