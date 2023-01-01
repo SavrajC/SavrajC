@@ -7,6 +7,7 @@ Aspiring Backend Software Engineer
 I started coding at 16 making simple video games for fun and am now a 3rd year student at KPU pusuing a B.Tech in Information Technology.I have just completed an 8 month long co-op at Vaisala Oyj as a Full Stack Software Developer creating serverless device simulators using AWS.
 
 * 🌍  I'm based in Vancouver
+* 🖥️  See my [portfolio](http://savrajc.s3-website.ca-central-1.amazonaws.com/)
 * ✉️  You can contact me at [Savrajcheema@hotmail.com](mailto:Savrajcheema@hotmail.com)
 * 🚀  I'm currently working on [Twitter Bot](http://twitter.com/DailyJokesBot_)
 * 🧠  I'm learning Golang
