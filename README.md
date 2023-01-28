@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Savraj Cheema
 =====================================================================================================================================
 
-Aspiring Backend Software Engineer
+Aspiring Software Engineer
 ----------------------------------
 
 I started coding at 16 making simple video games for fun and am now a 3rd year student at KPU pusuing a B.Tech in Information Technologies and just completed an 8 month long co-op at vaisala as a Full Stack Software Developer creating serverless device simulators using AWS
