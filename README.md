@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Engineer
 ----------------------------------
 
-I started coding at 16 making simple video games for fun and am now a 3rd year student at KPU pusuing a B.Tech in Information Technologies and just completed an 8 month long co-op at Vaisala Oyj as a Full Stack Software Developer creating serverless industrial measurement device simulators utilizing AWS
+I started coding at 16 making simple video games for fun and am now a 3rd year student at KPU pursuing a B.Tech in Information Technologies and just completed an 8 month long co-op at Vaisala Oyj as a Full Stack Software Developer creating serverless industrial measurement device simulators utilizing AWS
 
 * 🌍  I'm based in Vancouver
-* 🖥️  See my portfolio at [here](http://savrajc.s3-website.ca-central-1.amazonaws.com/)
+* 🖥️  See my portfolio at [here](http://savraj.ca/)
 * ✉️  You can contact me at [Savrajcheema@hotmail.com](mailto:Savrajcheema@hotmail.com)
 * 🚀  I'm currently working on [Twitter Bot](http://twitter.com/DailyJokesBot_)
 * 🧠  I'm learning Golang
-* ⚡  Looking for more books on software design. Most recent completion was: The Value Flyheel Effect by David Anderson
+* ⚡  ALways looking for more books on software design and development. Most recent completion was: The Value Flyheel Effect by David Anderson
 
 ### Skills
 
